@@ -1,0 +1,12 @@
+.bg-custom {
+  background: #264653;
+}
+.cbr-button {
+  background-color: #e76f51 !important;
+}
+.img-grayscale {
+  filter: grayscale(100%) !important;
+}
+i {
+  color: #e77c40;
+}
